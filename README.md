@@ -1,2 +1,2 @@
 - 2D Endless Runner by Hooson (YT)
-- Cubethon by Brackeys (YT)
+- Cubethon: How to make a Video Game by Brackeys (YT)
